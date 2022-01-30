@@ -1,0 +1,23 @@
+1.-Reúne tus datos. Empecemos con los números 1, 2, 3, 4 y 5 para usarlos en los ejemplos de cálculo.
+2.-Organiza tus datos del más pequeño al más grande. Coge todos los números y colócalos en orden de 
+modo que los más pequeños queden a la izquierda y los mayores a la derecha. 
+En nuestro caso, el orden de los números será 1, 2, 3, 4 y 5.
+3.-Encuentra la mediana del conjunto de datos. La mediana es el número central de un conjunto de datos. 
+4.-  Encuentra el primer y tercer cuartil. Ya hemos encontrado el segundo cuartil del conjunto de datos, 
+es decir, la mediana. ahora necesitamos averiguar la mediana de la mitad inferior del conjunto de datos. 
+En nuestro ejemplo sería la mediana de los números a la izquierda del 3. 
+La mediana de 1 y 2 es (1 + 2) / 2 = 1.5.
+Haz lo mismo para obtener la mediana de los números a la derecha del 3. (4 + 5) / 2 = 4.5.
+5.-Dibuja una gráfica. Debe ser lo suficientemente larga para contener todos tus datos y
+tener un espacio adicional a cada lado. Asegúrate de colocar los números con intervalos iguales. 
+6.-arca el primer, segundo y tercer cuartil en el diagrama. Toma los valores del primer, segundo y tercer cuartil 
+y marca sus números en el diagrama. La marca debe ser una línea vertical en cada cuartil, 
+empezando ligeramente por encima del diagrama.
+7.-
+Haz una caja dibujando líneas horizontales que conecten los cuartiles. 
+Conecta la parte superior del primer cuartil a la del tercer cuartil, atravesando el segundo cuartil. 
+Une la parte inferior del primer cuartil con la del tercero, asegurándote de atravesar el segundo cuartil.
+8.-Marca los valores extremos. Encuentra los números más pequeños y luego los más grandes de tu conjunto de datos
+y márcalos en tu diagrama. 
+9.-Une tus valores máximos a la caja con una línea horizontal. La línea recta que conecta los valores máximos 
+suele llamarse "margen escaso" de la caja o diagrama de margen escaso.
